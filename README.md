@@ -1,5 +1,5 @@
-# PM4U
-### Welcome to the Predictive Maintenance for Underground Infrastructure (PM4U) Repository
+# PdM4U
+### Welcome to the Predictive Maintenance for Underground Infrastructure (PdM4U) Repository
 
 #### Overview
 This GitHub repository is dedicated to fostering a collaborative environment for researchers focused on the maintenance of underground infrastructure. Our goal is to support the paradigm shift from reactive and reflective maintenance strategies to predictive and prescriptive methodologies. As the field transitions into this new era, the availability of robust, shared datasets becomes crucial. By hosting this repository, we aim to promote the development and validation of data-driven approaches in infrastructure management, particularly in the underground sector.
